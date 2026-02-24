@@ -16,4 +16,7 @@ int main() {
 
     //langkah 5
 
-    cout << "Luas persegi panjang : " << luas;
+    cout << "hasilnya = " << luas << endl;
+    cout << "terima kasih " << endl;
+    
+    //selesai
