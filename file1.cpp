@@ -11,8 +11,6 @@ int main() {
     int luas = lebar * panjang;
     cout << "luas=" << luas << endl;
 
-}
-int main() {
     cout << "selamat menunaikan ibadah puasa" << endl;
     cout << "BY ahmy sang KAISAR" << endl;
 }
